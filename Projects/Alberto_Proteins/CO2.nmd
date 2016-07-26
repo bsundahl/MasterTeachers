@@ -1,0 +1,11 @@
+nmwiz_load /Users/bryansundahl/SummerCamp/2016/Projects/Alberto_Proteins/CO2.nmd
+name 2_modes_from_ANM_CarbonDioxide
+atomnames C O1 O2
+resnames CO2 CO2 CO2
+resids 1 1 1
+chainids A A A
+segnames   
+bfactors 0.00 0.00 0.00
+coordinates 3.000 3.000 3.000 4.300 3.000 3.000 1.700 3.000 3.000
+mode 1 0.58 0.000 0.000 0.000 0.707 0.000 0.000 -0.707 0.000 0.000
+mode 2 0.58 0.816 0.000 0.000 -0.408 0.000 0.000 -0.408 0.000 0.000

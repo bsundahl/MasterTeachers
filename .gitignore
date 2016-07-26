@@ -1,3 +1,11 @@
+# Ignore these files fot git
+*-checkpoint.ipynb
+*.au
+*.aux
+*.log
+*.pyc
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
