@@ -1,6 +1,7 @@
-all:
-	pdflatex schedule.tex
-	pdflatex schedule.tex
-	pdflatex schedule.tex
+readme:
+	pdflatex READ_ME_FIRST.tex
+	pdflatex READ_ME_FIRST.tex
+	pdflatex READ_ME_FIRST.tex
+
 clean:
-	rm schedule.aux schedule.log schedule.pdf
+	rm READ_ME_FIRST.aux READ_ME_FIRST.log READ_ME_FIRST.pdf
